@@ -1,0 +1,22 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketheprogrammer/proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miketheprogrammer/proxy/issues"
+  },
+  "homepage": "https://github.com/miketheprogrammer/proxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
